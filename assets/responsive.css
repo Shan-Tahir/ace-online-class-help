@@ -1,0 +1,197 @@
+
+@media only screen and (max-width: 991px) {
+    .navbar-brand{
+        margin-left: 0px;
+
+    }
+    .main-Banner{
+       height: 100vh !important;
+        
+    }
+    .main-Banner-inner{
+       width: 100% !important;
+       color:#fff;
+       display: flex;
+       justify-content: center;
+       background: none !important;
+       border: none;
+    }
+    .main-Banner-inner-about{
+      width: 100% !important;
+      color:#fff;
+      display: flex;
+      justify-content: center;
+      background: none !important;
+      border: none;
+   }
+    h1{
+        font-size: 30px;
+        color: #fff !important;
+    
+    }
+    .main-Banner-inner ul li{
+        font-size: 16px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 16px;
+     padding-left: 0px !important;
+  }
+    .main-Banner-inner ul{
+        padding-left: 0px;
+    }
+    .main-Banner-inner-about ul{
+      padding-left: 0px;
+  }
+    .main-Banner-buttons .btn-banner{
+        padding: 10px 20px 10px 20px;
+    }
+  }
+  @media only screen and (max-width: 1057px){
+    .main-Banner-buttons .btn-banner{
+        margin-top: 0px;
+        padding: 5px 15px 5px 15px;
+        
+    }
+    .main-Banner-inner ul li{
+        font-size: 15px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 15px;
+     padding-left: 0px !important;
+  }
+    h1{
+        font-size: 25px;
+       
+    
+    }
+  }
+  @media only screen and (max-width: 878px){
+    .main-Banner-inner ul li{
+        font-size: 14px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 14px;
+     padding-left: 0px !important;
+  }
+  }
+  @media only screen and (max-width: 477px){
+    .main-Banner-inner ul li{
+        font-size: 13px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 13px;
+     padding-left: 0px !important;
+  }
+  }
+  @media only screen and (max-width: 456px){
+    .main-Banner-buttons .btn-banner{
+     
+        font-size: 13px;
+    }
+  }
+  @media only screen and (max-width: 454px){
+   
+    .main-Banner-inner ul li{
+        font-size: 12px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 12px;
+     padding-left: 0px !important;
+  }
+  }
+
+  @media only screen and (max-width: 432px){
+   
+    .main-Banner-inner ul li{
+        font-size: 11px;
+       padding-left: 0px !important;
+    }
+    .main-Banner-inner-about ul li{
+      font-size: 11px;
+     padding-left: 0px !important;
+  }
+  }
+
+  @media only screen and (max-width: 418px){
+   
+    .main-Banner-buttons .btn-banner{
+       
+        font-size: 12px;
+    }
+  }
+  @media only screen and (max-width: 407px){
+   
+    .main-Banner-buttons .btn-banner{
+       
+        font-size: 11px;
+    }
+  }
+  @media only screen and (max-width: 393px){
+   
+    .main-Banner-buttons .btn-banner{
+       
+        font-size: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 383px){
+   
+    .main-Banner-buttons .btn-banner{
+       
+        font-size: 9px;
+    }
+  }
+  @media only screen and (max-width: 364px){
+   
+
+
+    .main-Banner-buttons .btn-banner{
+        /* padding: 5px 10px 5px 10px; */
+        font-size: 9px;
+    }
+  }
+  @media only screen and (max-width: 420px){
+    .online-section-content{
+      word-spacing: 2px;
+      font-size:16px;
+      justify-content: center;
+  }
+  .section-friendly-price h1 , h3{
+    /* background-color: #302c41; */
+    /* color: #fff; */
+    padding-left: 0px;
+    font-size: 17px !important;
+  }
+
+    
+  }
+@media only screen and (max-width: 767px){
+  .slider-main{
+    border: none;
+    padding: 0px;
+  }
+  footer{
+    font-size: 16px;
+  }
+  .copyRight{
+    font-size: 14px;
+    margin-bottom: 0px !important;
+  }
+  .onlineSection {
+    padding: 0px;
+  }
+  .online-section-content {
+    /* padding: 40px; */
+    padding-top: 20px;
+  }
+}
+@media  only screen and (max-width: 991px) {
+  .danger-section{
+    padding:10px;
+  }
+}
